@@ -64,7 +64,7 @@ echo
 ## Default: Commit skipped|forgotten
 
 # 2018.May26
-git commit -m  "first formal release"
+git commit -m  "Upload Python Client"
 
 
 ############
