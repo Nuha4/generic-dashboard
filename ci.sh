@@ -64,7 +64,7 @@ echo
 ## Default: Commit skipped|forgotten
 
 # 2018.May26
-git commit -m  "Multiple Client to Server communication using ThreadPool"
+git commit -m  "send byte data"
 
 
 ############
